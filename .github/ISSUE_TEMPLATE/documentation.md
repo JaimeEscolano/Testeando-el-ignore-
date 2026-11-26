@@ -1,8 +1,8 @@
 ---
-Name: "Documentacion"
+name: "Documentacion"
 title: "#N - [DOCS]"
 labels: "documentacion"
-assignees: "vjhjh"
+assignees: ""
 about: "jhjfjgfjgc"
 ---
 
