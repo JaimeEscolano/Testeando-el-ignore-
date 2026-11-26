@@ -2,7 +2,7 @@
 Name: "Documentacion"
 title: "#N - [DOCS]"
 labels: "documentacion"
-assignees: ""
+assignees: "vjhjh"
 about: "jhjfjgfjgc"
 ---
 
